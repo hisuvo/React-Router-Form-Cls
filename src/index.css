@@ -1,0 +1,16 @@
+body{
+    background: #000;
+    color: #fff;
+}
+
+button{
+    padding:0.5rem 1rem;
+}
+#grandpa{
+    display: flex;
+}
+#grandpa div{
+    border: 2px solid red;
+    padding: 0.3rem;
+    margin: 0.5rem;
+}
